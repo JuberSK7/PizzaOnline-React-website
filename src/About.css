@@ -1,0 +1,31 @@
+.about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.about .image{
+    flex: 1 1 40rem;
+    height: 50rem;
+    background:url(./Images/pizza-18.gif),no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: screen;
+}
+
+.about .content {
+    flex: 1 1 40rem;
+    padding: 2rem;
+}
+
+.about .content p{
+    font-size: 1.8rem;
+    color: #666;
+    padding: 1rem 0;
+}
+
+.about .content h3{
+    font-size: 4rem;
+    color: #333;
+}

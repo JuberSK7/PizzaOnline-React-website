@@ -1,0 +1,47 @@
+.special .box-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.special .box-container .box{
+    height: 20rem;
+    width: 30rem;
+    margin: 6rem;
+    cursor: pointer;
+    overflow: hidden;
+    position: relative;
+}
+.special .box-container .box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.special .box-container .box h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-align: center;
+    font-size: 3rem;
+    opacity: 0;
+}
+.special .box-container .box:hover h3{
+    top:50%;
+    opacity: 1;
+    transition-delay: .1s;
+}
+.special .box-container .box::before{
+    content: '';
+    position: absolute;
+    height: 100%;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, .7);
+    transition: .2s linear;
+}
+.special .box-container .box:hover::before{
+    top: 0;
+}

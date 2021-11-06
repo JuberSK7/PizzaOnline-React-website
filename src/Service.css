@@ -1,0 +1,44 @@
+.service{
+    background: linear-gradient(rgba(255,255,255,.7),rgba(255,255,255,.7)), url() no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.service .box-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.service .box-container .box{
+    background: rgb(231, 223, 223);
+    width: 35rem;
+    padding: 2rem;
+    margin: 4rem;
+    border-radius: 1rem;
+    box-shadow: 0.3rem 0.5rem rgba(0, 0, 0, .2);
+    text-align: center;
+}
+.service .box-container .box img{
+    height: 30rem;
+    width: 100%;
+    object-fit: cover;
+}
+.service .box-container .box h3{
+    color: #333;
+    font-size: 3rem;
+    font-weight: normal;
+}
+.service .box-container .box .stars i{
+    color: gold;
+    font-size: 2rem;
+    padding: 1rem .1rem;
+}
+.service .box-container .box .price{
+    color: #666;
+    font-size: 2.5rem;
+}
+.service .box-container .box:hover{
+    transform: scale(1.02);
+    box-shadow: 0.1rem 0.1rem rgba(0, 0, 0, .2);
+}
