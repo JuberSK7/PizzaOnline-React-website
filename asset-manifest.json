@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/PizzaOnline-React-website/static/css/main.d658cf37.chunk.css",
+    "main.js": "/PizzaOnline-React-website/static/js/main.5c7221d4.chunk.js",
+    "main.js.map": "/PizzaOnline-React-website/static/js/main.5c7221d4.chunk.js.map",
+    "runtime-main.js": "/PizzaOnline-React-website/static/js/runtime-main.9f8ed90e.js",
+    "runtime-main.js.map": "/PizzaOnline-React-website/static/js/runtime-main.9f8ed90e.js.map",
+    "static/js/2.67d00056.chunk.js": "/PizzaOnline-React-website/static/js/2.67d00056.chunk.js",
+    "static/js/2.67d00056.chunk.js.map": "/PizzaOnline-React-website/static/js/2.67d00056.chunk.js.map",
+    "index.html": "/PizzaOnline-React-website/index.html",
+    "static/css/main.d658cf37.chunk.css.map": "/PizzaOnline-React-website/static/css/main.d658cf37.chunk.css.map",
+    "static/js/2.67d00056.chunk.js.LICENSE.txt": "/PizzaOnline-React-website/static/js/2.67d00056.chunk.js.LICENSE.txt",
+    "static/media/Order.css": "/PizzaOnline-React-website/static/media/connect.fd06b96c.jpg",
+    "static/media/connect2.c98ad6c5.png": "/PizzaOnline-React-website/static/media/connect2.c98ad6c5.png",
+    "static/media/homeimg1.debd4ecf.png": "/PizzaOnline-React-website/static/media/homeimg1.debd4ecf.png",
+    "static/media/pic1.b4725e77.jpg": "/PizzaOnline-React-website/static/media/pic1.b4725e77.jpg",
+    "static/media/pic2.219cf533.jpg": "/PizzaOnline-React-website/static/media/pic2.219cf533.jpg",
+    "static/media/pic3.6ef85d09.jpg": "/PizzaOnline-React-website/static/media/pic3.6ef85d09.jpg",
+    "static/media/pic4.20970a07.jpg": "/PizzaOnline-React-website/static/media/pic4.20970a07.jpg",
+    "static/media/pic5.1dfcd873.jpg": "/PizzaOnline-React-website/static/media/pic5.1dfcd873.jpg",
+    "static/media/pic6.1835d4ea.jpg": "/PizzaOnline-React-website/static/media/pic6.1835d4ea.jpg",
+    "static/media/About.css": "/PizzaOnline-React-website/static/media/pizza-18.fd67aa3e.gif",
+    "static/media/pizza-64.fbd10e1d.gif": "/PizzaOnline-React-website/static/media/pizza-64.fbd10e1d.gif",
+    "static/media/pizza1.d59ea063.png": "/PizzaOnline-React-website/static/media/pizza1.d59ea063.png",
+    "static/media/pizza3.6763e6d7.png": "/PizzaOnline-React-website/static/media/pizza3.6763e6d7.png",
+    "static/media/pizza5.da91ab38.png": "/PizzaOnline-React-website/static/media/pizza5.da91ab38.png",
+    "static/media/pizza6.7a146fc6.png": "/PizzaOnline-React-website/static/media/pizza6.7a146fc6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f8ed90e.js",
+    "static/js/2.67d00056.chunk.js",
+    "static/css/main.d658cf37.chunk.css",
+    "static/js/main.5c7221d4.chunk.js"
+  ]
+}
